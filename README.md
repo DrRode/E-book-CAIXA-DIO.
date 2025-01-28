@@ -1,4 +1,7 @@
 # Projeto EBOOK Gerado por I.A.s 
+ACESSE:
+https://docs.google.com/presentation/d/1p6wcIZeE2ef1YOXowoQhDY5RK2bW9wc-/edit?usp=sharing&ouid=107365702697403521257&rtpof=true&sd=true 
+
 ℹ️ NOTE: Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da DIO
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
